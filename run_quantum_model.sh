@@ -13,4 +13,4 @@ conda activate conda_qml
 
 cd /unix/qcomp/users/cduffy/anomaly_detection
 
-python testing.py
+python example.py
